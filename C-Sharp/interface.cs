@@ -1,5 +1,5 @@
 using System;
-
+// Interface is similar to a common standard.
 namespace InterfaceApp
 {
 
